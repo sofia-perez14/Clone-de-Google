@@ -144,6 +144,10 @@ main .button .button-general{
     margin: 18px;
 }
 
+main .button a{
+    color: black;
+}
+
 main .button .button-general .buscar-go{
     margin-right: 10px;
 }
